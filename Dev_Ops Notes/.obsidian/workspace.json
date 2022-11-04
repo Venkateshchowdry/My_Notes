@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DEV-OPS/3. GIT and GITHUB && bitbucket cmds.md",
+                "file": "1. AWS Cloud Architect/11. Cross Account Switch role.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DEV-OPS/3. GIT and GITHUB && bitbucket cmds.md",
+                "file": "1. AWS Cloud Architect/11. Cross Account Switch role.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DEV-OPS/3. GIT and GITHUB && bitbucket cmds.md",
+                "file": "1. AWS Cloud Architect/11. Cross Account Switch role.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DEV-OPS/3. GIT and GITHUB && bitbucket cmds.md"
+                "file": "1. AWS Cloud Architect/11. Cross Account Switch role.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "ae00495e012936b5",
   "lastOpenFiles": [
+    "1. AWS Cloud Architect/12. Infrastructure-Building-imp.md",
+    "1. AWS Cloud Architect/8. XAMP-Web Server.md",
+    "1. AWS Cloud Architect/9. VPC-Data Center.md",
+    "2. DEV-OPS/2. Linux-Cmds.md",
+    "2. DEV-OPS/3. GIT and GITHUB && bitbucket cmds.md",
     "2. DEV-OPS/6. Jenkins [will be replaced by CircleCI].md",
     "2. DEV-OPS/5.2. Ansible-Ubuntu.md",
     "2. DEV-OPS/8. Python-DevOps.md",
-    "2. DEV-OPS/2. Linux-Cmds.md",
     "1. AWS Cloud Architect/13. Deployment - Bit Bucket.md",
-    "2. DEV-OPS/7. Terraform.md",
-    "2. DEV-OPS/4. Docker.md",
-    "1. AWS Cloud Architect/14. Monitoring.md",
-    "1. AWS Cloud Architect/15. JOb.md",
-    "1. AWS Cloud Architect/5. Mount a Disk.md"
+    "2. DEV-OPS/7. Terraform.md"
   ]
 }

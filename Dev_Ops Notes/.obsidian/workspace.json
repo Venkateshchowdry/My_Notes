@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "4d85975e0bd3cf8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "651ffbca0174c9c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae00495e012936b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. DEV-OPS/5.2. Ansible-Ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc6e763825f22ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "89da8e53953dc665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "662a9193b12a31ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61b0722b85ef69a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a62f50124158fac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed11fe8b609b45cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "41bef53cd036887a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c67ad81d23eb63f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. DEV-OPS/5.2. Ansible-Ubuntu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ecc3beab531e4ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. DEV-OPS/5.2. Ansible-Ubuntu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d81dc0b60741bc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "afc2c13d213554b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. DEV-OPS/5.2. Ansible-Ubuntu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "662a9193b12a31ce",
+  "lastOpenFiles": [
+    "2. DEV-OPS/8. Python-DevOps.md",
+    "2. DEV-OPS/2. Linux-Cmds.md",
+    "2. DEV-OPS/5.2. Ansible-Ubuntu.md",
+    "1. AWS Cloud Architect/13. Deployment - Bit Bucket.md",
+    "2. DEV-OPS/7. Terraform.md",
+    "2. DEV-OPS/4. Docker.md",
+    "1. AWS Cloud Architect/14. Monitoring.md",
+    "1. AWS Cloud Architect/15. JOb.md",
+    "1. AWS Cloud Architect/5. Mount a Disk.md",
+    "3. PROJECTS/1. Django to-do app.md"
+  ]
+}

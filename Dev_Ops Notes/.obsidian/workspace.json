@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. PROJECTS/1. Django to-do app.md",
+                "file": "2. DEV-OPS/3. GIT and GITHUB && bitbucket cmds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7c6f16b7bcffbbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. BellyWorks/3. Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42e17ed74ffe8aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. REACT+NODE JS+DJANGO+MYSQL/REACT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b892f937245d2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. BellyWorks/App see abou this later.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. PROJECTS/1. Django to-do app.md",
+                "file": "3. BellyWorks/App see abou this later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. PROJECTS/1. Django to-do app.md",
+                "file": "3. BellyWorks/App see abou this later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. PROJECTS/1. Django to-do app.md"
+                "file": "3. BellyWorks/App see abou this later.md"
               }
             }
           }
@@ -136,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae00495e012936b5",
+  "active": "2b892f937245d2ac",
   "lastOpenFiles": [
-    "1. AWS Cloud Architect/7. VPN-Server.md",
-    "1. AWS Cloud Architect/12. Infrastructure-Building-imp.md",
-    "1. AWS Cloud Architect/11. Cross Account Switch role.md",
-    "1. AWS Cloud Architect/8. XAMP-Web Server.md",
-    "1. AWS Cloud Architect/9. VPC-Data Center.md",
-    "2. DEV-OPS/2. Linux-Cmds.md",
-    "2. DEV-OPS/3. GIT and GITHUB && bitbucket cmds.md",
-    "2. DEV-OPS/6. Jenkins [will be replaced by CircleCI].md",
-    "2. DEV-OPS/5.2. Ansible-Ubuntu.md",
-    "2. DEV-OPS/8. Python-DevOps.md"
+    "3. BellyWorks/Untitled.md",
+    "3. BellyWorks/App see abou this later.md",
+    "3. BellyWorks/3. Design.md",
+    "3. BellyWorks/2. Business Model.md",
+    "3. BellyWorks/1. Aim.md",
+    "4. DevOps Practice Projects/1. Django to-do app.md",
+    "4. REACT+NODE JS+DJANGO+MYSQL/REACT.md",
+    "4. REACT+NODE JS+DJANGO+MYSQL/Vs Code.md",
+    "4. REACT+NODE JS+DJANGO+MYSQL.md",
+    "2. DEV-OPS/3. GIT and GITHUB && bitbucket cmds.md"
   ]
 }

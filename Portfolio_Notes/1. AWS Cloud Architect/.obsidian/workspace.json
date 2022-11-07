@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "a90db285bc981b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "9575d2770a2b5bed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6325bb7fd4d78046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Pswd protected website stored in Private S3 access with password.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ecd1d37fe9810dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96adf0e950043d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faadbcacaf4ffa93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfb93d9e2a6976d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10f3ee40bd4a360d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9267bec47c01a5bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b82812faeab635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a91284e898a8b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Pswd protected website stored in Private S3 access with password.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6b01a8f6c81057c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Pswd protected website stored in Private S3 access with password.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35b179cd765c1793",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11acd3aa2d12bb5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Pswd protected website stored in Private S3 access with password.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6325bb7fd4d78046",
+  "lastOpenFiles": [
+    "1. History.md"
+  ]
+}

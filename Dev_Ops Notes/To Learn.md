@@ -1,1 +1,0 @@
-- python installation in virtual environment- done [refer project-1 django todo app]

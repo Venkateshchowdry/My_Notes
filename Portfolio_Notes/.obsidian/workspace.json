@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DEV-OPS/4. Docker.md",
+                "file": "2. DEV-OPS/2. Linux-Cmds.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DEV-OPS/4. Docker.md",
+                "file": "2. DEV-OPS/2. Linux-Cmds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DEV-OPS/4. Docker.md",
+                "file": "2. DEV-OPS/2. Linux-Cmds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DEV-OPS/4. Docker.md"
+                "file": "2. DEV-OPS/2. Linux-Cmds.md"
               }
             }
           }
@@ -199,15 +199,15 @@
   },
   "active": "799569d5b11df1dd",
   "lastOpenFiles": [
-    "4. DevOps Practice Projects/1. Django to-do app.md",
-    "2. DEV-OPS/4. Docker.md",
     "2. DEV-OPS/6. Jenkins [will be replaced by CircleCI].md",
+    "2. DEV-OPS/5.2. Ansible-Ubuntu.md",
+    "2. DEV-OPS/4. Docker.md",
+    "4. DevOps Practice Projects/1. Django to-do app.md",
     "2. DEV-OPS/12. Kubernettes.md",
     "2. DEV-OPS/1. Dev-Ops Background.md",
     "2. DEV-OPS/3. GIT and GITHUB && bitbucket cmds.md",
     "2. DEV-OPS/2. Linux-Cmds.md",
     "2. DEV-OPS/9. DevOps Project.md",
-    "3. BellyWorks/1. Aim.md",
-    "2. DEV-OPS/10. Daily base Tasks.md"
+    "3. BellyWorks/1. Aim.md"
   ]
 }

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DEV-OPS/1.4. Windows cmds.md",
+                "file": "2. DEV-OPS/3. Jenkins [will be replaced by CircleCI].md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DEV-OPS/1.4. Windows cmds.md",
+                "file": "2. DEV-OPS/3. Jenkins [will be replaced by CircleCI].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DEV-OPS/1.4. Windows cmds.md",
+                "file": "2. DEV-OPS/3. Jenkins [will be replaced by CircleCI].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DEV-OPS/1.4. Windows cmds.md"
+                "file": "2. DEV-OPS/3. Jenkins [will be replaced by CircleCI].md"
               }
             }
           }
@@ -224,14 +224,14 @@
   "active": "d54fb0bb64b32ef6",
   "lastOpenFiles": [
     "2. DEV-OPS/1.3. GIT and GITHUB && bitbucket cmds.md",
-    "2. DEV-OPS/1.1. Linux-Cmds.md",
     "2. DEV-OPS/1.2. Python-DevOps.md",
+    "2. DEV-OPS/1.1. Linux-Cmds.md",
+    "2. DEV-OPS/10. Daily base Tasks.md",
+    "Images/Pasted image 20221113161038.png",
+    "Images/Pasted image 20221113160755.png",
+    "2. DEV-OPS/1.4. Windows cmds.md",
     "2. DEV-OPS/7. Grafana.md",
     "2. DEV-OPS/6. Terraform.md",
-    "2. DEV-OPS/5.1. Ansible-RedHat.md",
-    "2. DEV-OPS/4. Kubernettes.md",
-    "2. DEV-OPS/3. Jenkins [will be replaced by CircleCI].md",
-    "2. DEV-OPS/2. Docker.md",
-    "2. DEV-OPS/0. Dev-Ops Background.md"
+    "2. DEV-OPS/5.1. Ansible-RedHat.md"
   ]
 }

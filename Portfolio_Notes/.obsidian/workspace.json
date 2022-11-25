@@ -13,126 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DEV-OPS/1.3. GIT and GITHUB && bitbucket cmds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7c6f16b7bcffbbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Bird's/3. Bird-Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42e17ed74ffe8aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. REACT+NODE JS+DJANGO+MYSQL/1. REACT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b892f937245d2ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DEV-OPS/5.2. Ansible-Ubuntu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f3456e221bf4503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DEV-OPS/3. Jenkins [will be replaced by CircleCI].md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "799569d5b11df1dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Bird's/App see abou this later.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8de2851480375872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DEV-OPS/6. Terraform.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d54fb0bb64b32ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DEV-OPS/3. Jenkins [will be replaced by CircleCI].md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2816d6a5efa8bbbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DEV-OPS/9. DevOps Projects-Jenkins+Ansible.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72bc0eb78059ec5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DEV-OPS/9.1. ...with Web Server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2c67b10d8590e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2. DEV-OPS/9.2. ...with Docker Host.md",
                 "mode": "source",
                 "source": false
@@ -140,55 +20,43 @@
             }
           },
           {
-            "id": "5c3d307ca6050928",
+            "id": "876395a7a4903d22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DEV-OPS/1.1. Linux Cmds/1.1. Linux-Cmds-Ubiqutous.md",
+                "file": "2. DEV-OPS/5.1. Ansible-RedHat.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d99751c8d2f0030",
+            "id": "a0869c1ddce51f86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DEV-OPS/0. DevOps-Roadmap.md",
+                "file": "2. DEV-OPS/1.1. Linux Cmds/1.2. Amazon Linux 2 cmds.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "515d194335680bb3",
+            "id": "03995ee2bedf1af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DEV-OPS/8. CI-CD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a8c72cf47c8fe0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DEV-OPS/11. Monitoring Tools.md",
+                "file": "2. DEV-OPS/9.4. ... deploy on docker container-tomcat or nginx.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DEV-OPS/11. Monitoring Tools.md",
+                "file": "2. DEV-OPS/9.4. ... deploy on docker container-tomcat or nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DEV-OPS/11. Monitoring Tools.md",
+                "file": "2. DEV-OPS/9.4. ... deploy on docker container-tomcat or nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DEV-OPS/11. Monitoring Tools.md"
+                "file": "2. DEV-OPS/9.4. ... deploy on docker container-tomcat or nginx.md"
               }
             }
           }
@@ -305,16 +173,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a8c72cf47c8fe0b",
+  "active": "03995ee2bedf1af2",
   "lastOpenFiles": [
-    "2. DEV-OPS/0. DevOps-Roadmap.md",
-    "2. DEV-OPS/11. Monitoring Tools.md",
-    "2. DEV-OPS/8. CI-CD.md",
-    "2. DEV-OPS/9.2. ...with Docker Host.md",
+    "2. DEV-OPS/1.1. Linux Cmds/1.1. Linux-Cmds-Ubiqutous.md",
     "2. DEV-OPS/3. Jenkins [will be replaced by CircleCI].md",
+    "2. DEV-OPS/9.4. ... deploy on docker container-tomcat or nginx.md",
+    "2. DEV-OPS/9.2. ...with Docker Host.md",
     "2. DEV-OPS/9.1. ...with Web Server.md",
-    "2. DEV-OPS/10. Daily base Tasks.md",
-    "2. DEV-OPS/2. Docker.md",
+    "2. DEV-OPS/1.1. Linux Cmds/1.3. CentOs.md",
+    "2. DEV-OPS/1.1. Linux Cmds/1.2. Amazon Linux 2 cmds.md",
+    "2. DEV-OPS/12. Putty or Mobxterm.md",
     "2. DEV-OPS/5.1. Ansible-RedHat.md",
     "2. DEV-OPS/5.2. Ansible-Ubuntu.md"
   ]
